@@ -1,0 +1,7 @@
+{
+  "name": "Lead Finder Pro",
+  "description": "An intelligent application to find business leads by specifying a segment and location, powered by Gemini with Google Maps Grounding for up-to-date and accurate information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
